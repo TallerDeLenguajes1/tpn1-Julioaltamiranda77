@@ -3,7 +3,8 @@
 
 ## Resolucion problemas📋
 
-### Problema 1: Investigar el archivo .gitignore ¿Por qué es conveniente incluirlo? ¿Cuándo se
+### Problema 1: 
+Investigar el archivo .gitignore ¿Por qué es conveniente incluirlo? ¿Cuándo se
 debe hacer? ¿Cómo usaría la página https://www.gitignore.io/? ¿Cómo configuraría el archivo .gitignore?.
 
 ### Solución:
@@ -16,7 +17,8 @@ poder evitar archivos o carpetas innecesarias para dicho codigo o proyecto.
 una forma de plantilla con los nombres de archivos o directorios que queremos ignorar.
 
 
-### Problema 2: Si resolvió correctamente los puntos ii y iii notará que el resultado es el mismo. ¿a qué se debe? ¿Qué obtiene en el punto 4? ¿es igual a los anteriores? ¿por
+### Problema 2:
+Si resolvió correctamente los puntos ii y iii notará que el resultado es el mismo. ¿a qué se debe? ¿Qué obtiene en el punto 4? ¿es igual a los anteriores? ¿por
 qué? Responder en el archivo readme.md 
 
 ### Solución:
